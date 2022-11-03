@@ -1,1 +1,0 @@
-# VCSA-API-to-Renews-VCSA-signed-__MACHINE_SSL-certificate
